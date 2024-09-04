@@ -5,6 +5,6 @@ public class Multiply {
         int a = 5;
         int b = 2;
 
-        System.out.println("product is "+ (a*b));
+        System.out.println("product is: "+ (a*b));
     }
 }
